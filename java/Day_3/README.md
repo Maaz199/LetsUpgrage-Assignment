@@ -1,4 +1,4 @@
-# DAY 1 Assignment for Java Programming Zero to Hero
+# DAY 3 Assignment for Java Programming Zero to Hero
 
 Task - Define a class "Employee" with the following members:
 
